@@ -14,3 +14,7 @@
 - [lsp](https://github.com/ThitiBamrung/HW_Software_AR/tree/main/The%20SOLID%20Principles/lsp)
 ## Creational Design Patterns
 - [Creational Design Patterns](https://github.com/ThitiBamrung/HW_Software_AR/tree/main/Creational%20Design%20Patterns)
+## Behavioral
+- [Behavioral](https://github.com/ThitiBamrung/HW_Software_AR/tree/main/Behavioral)
+## Structural
+- [Structural](https://github.com/ThitiBamrung/HW_Software_AR/tree/main/Structural)
